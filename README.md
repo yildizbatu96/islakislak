@@ -1,2 +1,2 @@
 # islakislak
-Barış Akarsu Islak Islak WordCloud
+Barış Akarsu Islak Islak Album WordCloud
